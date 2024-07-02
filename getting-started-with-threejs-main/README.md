@@ -1,1 +1,1 @@
-# getting-started-with-threejs
+# THREE.js Basics
